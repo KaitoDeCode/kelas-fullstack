@@ -1,2 +1,2 @@
 # kelas-fullstack
-Tugas Ada myapp/src/{tugas}
+Tugas berada di  myapp/src/{tugas}
